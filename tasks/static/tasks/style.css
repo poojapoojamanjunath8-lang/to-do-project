@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.task-item {
+    transition: 0.3s;
+}
+
+.task-item:hover {
+    background-color: #f8f9fa;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 6px;
+}
